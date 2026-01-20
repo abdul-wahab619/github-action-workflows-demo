@@ -1,4 +1,4 @@
-name: Testing Workflow Variables
+name: Testing Configuration Variables
 
 on:
     workflow_dispatch
